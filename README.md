@@ -6,7 +6,7 @@ Hi , I'm Shwetabh
 
 👯 Looking to collaborate on hackathons and MERN stack projects
 
-📫 You can reach me here sangaja.patel@iiitg.ac.in
+📫 You can reach me here shwetabh.patel23@gmail.com
 
 ⚡ Fun fact I think I am funny XD
 
@@ -18,7 +18,7 @@ Shwetabh's streak
 
 📊 My Github Stats
 
-sangaja's Github Stats sangaja's Top Languages
+Shwetabh's Github Stats Shwetabh's Top Languages
 Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
